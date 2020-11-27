@@ -1,1 +1,1 @@
-# fundamental-python
+# crash-course-1-fundamental-python
